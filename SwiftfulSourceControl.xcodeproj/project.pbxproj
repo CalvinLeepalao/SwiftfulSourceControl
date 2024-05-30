@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3763D11C2C08330E0023541B /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3763D11B2C08330E0023541B /* HomeView.swift */; };
 		3776E4B92C0797C500CD7723 /* SwiftfulSourceControlApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3776E4B82C0797C500CD7723 /* SwiftfulSourceControlApp.swift */; };
 		3776E4BB2C0797C500CD7723 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3776E4BA2C0797C500CD7723 /* ContentView.swift */; };
 		3776E4BD2C0797C600CD7723 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3776E4BC2C0797C600CD7723 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3763D11B2C08330E0023541B /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		3776E4B52C0797C500CD7723 /* SwiftfulSourceControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulSourceControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3776E4B82C0797C500CD7723 /* SwiftfulSourceControlApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulSourceControlApp.swift; sourceTree = "<group>"; };
 		3776E4BA2C0797C500CD7723 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				3776E4B82C0797C500CD7723 /* SwiftfulSourceControlApp.swift */,
 				3776E4BA2C0797C500CD7723 /* ContentView.swift */,
+				3763D11B2C08330E0023541B /* HomeView.swift */,
 				3776E4BC2C0797C600CD7723 /* Assets.xcassets */,
 				3776E4BE2C0797C600CD7723 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3763D11C2C08330E0023541B /* HomeView.swift in Sources */,
 				3776E4BB2C0797C500CD7723 /* ContentView.swift in Sources */,
 				3776E4B92C0797C500CD7723 /* SwiftfulSourceControlApp.swift in Sources */,
 			);
