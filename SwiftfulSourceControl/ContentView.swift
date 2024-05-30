@@ -7,22 +7,22 @@
 
 
 /*
- COMMIT MESSAGES
+ COMMIT MESSAGES (usual flow as well)
  
  NEW FEATURES:
  [Feature] Description of the feature
  
- BUG IN PRODUCTION:
- [Patch] Description of patch
- 
  BUG NOT IN PRODUCTION:
  [Bug] Description of the bug
  
- MUNDANE TASKS:
- [Clean] Description of changes
- 
  RELEASE:
  [Release] Description of release
+ 
+ BUG IN PRODUCTION:
+ [Patch] Description of patch
+ 
+ MUNDANE TASKS:
+ [Clean] Description of changes
  
  */
 
