@@ -5,6 +5,9 @@
 //  Created by Calvin LeePalao on 5/29/24.
 //
 
+// Creating new branch folder is: "cl/NAME"
+// Note: Anything can be before "/"
+
 
 /*
  Clone = Copying the repo locally
